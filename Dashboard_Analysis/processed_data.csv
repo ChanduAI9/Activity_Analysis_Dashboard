@@ -1,0 +1,13 @@
+date,position,total_duration,activity,count
+2024-01-16,Inside,1.0,picked,40
+2024-01-16,Inside,1.0,placed,40
+2024-01-16,inside,39.0,picked,40
+2024-01-16,inside,39.0,placed,40
+2024-01-17,inside,10.0,picked,10
+2024-01-17,inside,10.0,placed,9
+2024-01-18,Inside,8.0,picked,37
+2024-01-18,Inside,8.0,placed,39
+2024-01-18,inside,29.0,picked,37
+2024-01-18,inside,29.0,placed,39
+2024-01-18,outside,2.0,picked,37
+2024-01-18,outside,2.0,placed,39
